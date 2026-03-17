@@ -12,9 +12,9 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: cefc51f9.dfbstatus.pages.dev
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://static.wixstatic.com/shapes/542b86_704fbb83aa5f4882827930571d5096fc.svg
   name: Upptime
   introTitle: "DFB Tech Website Status"
   introMessage: 
