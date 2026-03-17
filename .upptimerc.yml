@@ -4,10 +4,7 @@ repo: dfbsitestatus # The name of this repository
 
 sites:
   - name: Website
-    url: https://www.dfbtech.wixsite.com/site
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
+    url: https://dfbtech.wixsite.com/site
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -15,14 +12,14 @@ status-website:
   cname: dfbstatus.pages.dev
   # baseUrl: /your-repo-name
   logoUrl: https://static.wixstatic.com/shapes/542b86_704fbb83aa5f4882827930571d5096fc.svg
-  name: Upptime
+  name: Website Status
   introTitle: "DFB Tech Website Status"
   introMessage: 
   navbar:
     - title: Status
       href: /
     - title: Main Site
-      href: dfbtech.wixsite.com/site
+      href: https://dfbtech.wixsite.com/site
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
