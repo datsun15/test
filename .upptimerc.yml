@@ -3,8 +3,8 @@ owner: datsun15 # Your GitHub organization or username, where this repository li
 repo: dfbstatus # The name of this repository
 
 sites:
-  - name: Website
-    url: https://dfbtech.wixsite.com/site
+  - name: Google
+    url: https://www.google.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
